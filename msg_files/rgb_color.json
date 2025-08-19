@@ -1,0 +1,8 @@
+{
+  "method": "setPilot",
+  "params": {
+    "r": 255,
+    "g": 100,
+    "b": 0
+  }
+}

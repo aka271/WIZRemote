@@ -1,0 +1,7 @@
+{
+  "method": "setPilot",
+  "params": {
+    "state": true,
+    "sceneId": "1"
+  }
+}

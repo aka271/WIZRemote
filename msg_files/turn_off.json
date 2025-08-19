@@ -1,0 +1,6 @@
+{
+  "method": "setPilot",
+  "params": {
+    "state": false
+  }
+}
